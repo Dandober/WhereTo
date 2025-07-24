@@ -1,0 +1,452 @@
+[
+  {
+    "name": "Churrascaria Rio Brasa",
+    "type": "Churrascaria",
+    "foodType": "Churrasco",
+    "latitude": -22.9870,
+    "longitude": -43.3650,
+    "address": "Av. Ayrton Senna, 2541",
+    "link": "http://www.riobrasa.com.br"
+  },
+  {
+    "name": "Churrascaria Picanha & Etc",
+    "type": "Churrascaria",
+    "foodType": "Churrasco",
+    "latitude": -23.0082,
+    "longitude": -43.2954,
+    "address": "Av. Lúcio Costa, 2900",
+    "link": "https://picanhaeetc.com.br"
+  },
+  {
+    "name": "Tourão Grill",
+    "type": "Churrascaria",
+    "foodType": "Churrasco",
+    "latitude": -23.0000,
+    "longitude": -43.2980,
+    "address": "Praça São Perpétuo, 116",
+    "link": "http://www.tourao.com.br"
+  },
+  {
+    "name": "Mocellin Steakhouse",
+    "type": "Steakhouse",
+    "foodType": "Churrasco",
+    "latitude": -22.9995,
+    "longitude": -43.3090,
+    "address": "Av. Armando Lombardi, 1010",
+    "link": "https://mocellinsteak.com.br"
+  },
+  {
+    "name": "Corrientes 348 (Barra)",
+    "type": "Parrilla argentina",
+    "foodType": "Churrasco",
+    "latitude": -22.9854,
+    "longitude": -43.3031,
+    "address": "Av. das Américas, 7777 – Rio Design",
+    "link": "https://www.corrientes348.com.br/348-barra-da-tijuca/"
+  },
+  {
+    "name": "Royal Grill",
+    "type": "Restaurante de carnes",
+    "foodType": "Churrasco",
+    "latitude": -22.9890,
+    "longitude": -43.3610,
+    "address": "CasaShopping – Av. Ayrton Senna, 2150",
+    "link": "https://royalgrillbarra.com.br"
+  },
+  {
+    "name": "Tragga (Vogue Square)",
+    "type": "Parrilla",
+    "foodType": "Churrasco",
+    "latitude": -22.9942,
+    "longitude": -43.3655,
+    "address": "Av. das Américas, 8585 – Vogue Square",
+    "link": "https://tragga.com.br/unidades/vogue-square/"
+  },
+  {
+    "name": "Gran Parrilla",
+    "type": "Parrilla",
+    "foodType": "Churrasco",
+    "latitude": -23.0020,
+    "longitude": -43.3015,
+    "address": "Av. Lúcio Costa, 8000",
+    "link": "https://granparrilla.com.br"
+  },
+  {
+    "name": "Na Brasa Columbia (Barra)",
+    "type": "Galeteria / Grill",
+    "foodType": "Frango e churrasco",
+    "latitude": -23.0025,
+    "longitude": -43.2925,
+    "address": "Av. Olegário Maciel, 7",
+    "link": "https://nabrasacolumbia.com.br/barra/"
+  },
+  {
+    "name": "Pobre Juan (Barra Shopping)",
+    "type": "Parrilla premium",
+    "foodType": "Churrasco",
+    "latitude": -22.9898,
+    "longitude": -43.3062,
+    "address": "Av. das Américas, 4666 – Nível Américas",
+    "link": "https://pobrejuan.com.br"
+  },
+  {
+    "name": "Gurumê Barra",
+    "type": "Japonês contemporâneo",
+    "foodType": "Japonês",
+    "latitude": -22.9971,
+    "longitude": -43.3658,
+    "address": "Vogue Square",
+    "link": "https://gurume.com.br"
+  },
+  {
+    "name": "Ristorantino Rio",
+    "type": "Italiano",
+    "foodType": "Cucina italiana",
+    "latitude": -22.9886,
+    "longitude": -43.3040,
+    "address": "Av. das Américas, 3500 – VillageMall",
+    "link": null
+  },
+  {
+    "name": "Ocyá",
+    "type": "Frutos do mar",
+    "foodType": "Frutos do mar",
+    "latitude": -23.0030,
+    "longitude": -43.3195,
+    "address": "Ilha da Gigoia",
+    "link": null
+  },
+  {
+    "name": "D’Heaven",
+    "type": "Francesa contemporânea",
+    "foodType": "Internacional",
+    "latitude": -22.9882,
+    "longitude": -43.3600,
+    "address": "CasaShopping",
+    "link": null
+  },
+  {
+    "name": "Madero (Barra Shopping)",
+    "type": "Hamburgueria / Grill",
+    "foodType": "Hamburguer / Grill",
+    "latitude": -22.9902,
+    "longitude": -43.3605,
+    "address": "Barra Shopping",
+    "link": "https://restaurantemadero.com.br"
+  },
+  {
+    "name": "Outback Steakhouse (Barra Shopping)",
+    "type": "Steakhouse",
+    "foodType": "Carnes e grelhados",
+    "latitude": -22.9906,
+    "longitude": -43.3599,
+    "address": "Barra Shopping",
+    "link": "https://outback.com.br"
+  },
+  {
+    "name": "Gran São Paulo",
+    "type": "Churrascaria",
+    "foodType": "Rodízio de churrasco",
+    "latitude": -23.0010,
+    "longitude": -43.3100,
+    "address": "Av. Armando Lombardi, 1000",
+    "link": null
+  },
+  {
+    "name": "Oliva",
+    "type": "Mediterrâneo",
+    "foodType": "Cozinha mediterrânea",
+    "latitude": -22.9965,
+    "longitude": -43.3205,
+    "address": "Shopping Downtown",
+    "link": null
+  },
+  {
+    "name": "Pasta di Capri",
+    "type": "Massas artesanais",
+    "foodType": "Massas / Italiano",
+    "latitude": -23.0041,
+    "longitude": -43.3170,
+    "address": "Av. Érico Veríssimo, 970",
+    "link": null
+  },
+  {
+    "name": "Chez L’Ami Martin",
+    "type": "Bistrô francês",
+    "foodType": "Francesa",
+    "latitude": -22.9975,
+    "longitude": -43.3122,
+    "address": "Av. das Américas, 3500 – VillageMall",
+    "link": null
+  },
+  {
+    "name": "Churrascaria Rio Sul",
+    "type": "Churrascaria",
+    "foodType": "Rodízio de churrasco",
+    "latitude": -23.0205,
+    "longitude": -43.4710,
+    "address": "Av. das Américas, 13980",
+    "link": "https://churrascariariosul.com.br"
+  },
+  {
+    "name": "Tourino Churrascaria Clássica",
+    "type": "Churrascaria",
+    "foodType": "Rodízio de churrasco",
+    "latitude": -23.0123,
+    "longitude": -43.4375,
+    "address": "Av. das Américas, 13280",
+    "link": null
+  },
+  {
+    "name": "Na Brasa Columbia (Recreio)",
+    "type": "Galeteria / Grill",
+    "foodType": "Frango e churrasco",
+    "latitude": -23.0160,
+    "longitude": -43.4570,
+    "address": "Av. das Américas, 11875",
+    "link": null
+  },
+  {
+    "name": "Clássico Beach Club Recreio",
+    "type": "Praia / Internacional",
+    "foodType": "Petiscos e grelhados",
+    "latitude": -23.0255,
+    "longitude": -43.4760,
+    "address": "Praia do Pontal",
+    "link": null
+  },
+  {
+    "name": "Gallo Carioca",
+    "type": "Brasileiro",
+    "foodType": "Galinhas e grelhados",
+    "latitude": -23.0270,
+    "longitude": -43.4795,
+    "address": "Rua Guilherme de Almeida, 75",
+    "link": null
+  },
+  {
+    "name": "Kaçuá",
+    "type": "Regional nordestino",
+    "foodType": "Nordestino / grill",
+    "latitude": -23.0290,
+    "longitude": -43.4802,
+    "address": "Av. Genaro de Carvalho, 1343",
+    "link": null
+  },
+  {
+    "name": "Cabana da Praia",
+    "type": "Peixes & frutos do mar",
+    "foodType": "Frutos do mar",
+    "latitude": -23.0240,
+    "longitude": -43.4740,
+    "address": "Praia do Recreio – Posto 10",
+    "link": null
+  },
+  {
+    "name": "Piazzetta Pizza & Pasta",
+    "type": "Pizzaria",
+    "foodType": "Pizza italiana",
+    "latitude": -23.0232,
+    "longitude": -43.4680,
+    "address": "Av. Gláucio Gil, 1260",
+    "link": null
+  },
+  {
+    "name": "Restaurante Gepetto",
+    "type": "Italiano",
+    "foodType": "Massas e grelhados",
+    "latitude": -23.0215,
+    "longitude": -43.4685,
+    "address": "Av. das Américas, 19019",
+    "link": null
+  },
+  {
+    "name": "Madalenna",
+    "type": "Brasileiro contemporâneo",
+    "foodType": "Comida brasileira",
+    "latitude": -23.0175,
+    "longitude": -43.4585,
+    "address": "Av. Gilka Machado, 100",
+    "link": null
+  },
+  {
+    "name": "Cugine Restaurante",
+    "type": "Italiano",
+    "foodType": "Cucina italiana",
+    "latitude": -23.0202,
+    "longitude": -43.4650,
+    "address": "Av. Gláucio Gil, 1020",
+    "link": null
+  },
+  {
+    "name": "Bahamas Steak House",
+    "type": "Steakhouse",
+    "foodType": "Carnes e grill",
+    "latitude": -23.0190,
+    "longitude": -43.4705,
+    "address": "Rua Benvindo de Novais, 555",
+    "link": null
+  },
+  {
+    "name": "Officina do Chopp",
+    "type": "Bar / Grill",
+    "foodType": "Churrasco e petiscos",
+    "latitude": -23.0180,
+    "longitude": -43.4715,
+    "address": "Av. Genaro de Carvalho, 1300",
+    "link": null
+  },
+  {
+    "name": "Oliva Gourmet",
+    "type": "Mediterrâneo",
+    "foodType": "Cozinha mediterrânea",
+    "latitude": -23.0265,
+    "longitude": -43.4750,
+    "address": "Av. das Américas, 15100",
+    "link": null
+  },
+  {
+    "name": "Dom Helio Forno & Grill",
+    "type": "Churrascaria / Pizza",
+    "foodType": "Carnes e pizza",
+    "latitude": -23.0280,
+    "longitude": -43.4785,
+    "address": "Est. do Pontal, 7100",
+    "link": null
+  },
+  {
+    "name": "Cevadas S.A. Bar e Restaurante",
+    "type": "Bar cervejeiro",
+    "foodType": "Petiscos / Bar",
+    "latitude": -23.0225,
+    "longitude": -43.4665,
+    "address": "Av. das Américas, 15590",
+    "link": null
+  },
+  {
+    "name": "Growlers2Go",
+    "type": "Bar de cervejas",
+    "foodType": "Cervejas artesanais",
+    "latitude": -23.0218,
+    "longitude": -43.4672,
+    "address": "Av. das Américas, 16500",
+    "link": null
+  },
+  {
+    "name": "Domenico Restaurante",
+    "type": "Italiano",
+    "foodType": "Massas e carnes",
+    "latitude": -23.0295,
+    "longitude": -43.4810,
+    "address": "Rua Paulo Moura, 20",
+    "link": null
+  },
+  {
+    "name": "Quiosque Point da Barra",
+    "type": "Praia",
+    "foodType": "Petiscos de praia",
+    "latitude": -23.0238,
+    "longitude": -43.4730,
+    "address": "Praia do Recreio, Posto 11",
+    "link": null
+  },
+  {
+    "name": "Cabana do Pescador",
+    "type": "Frutos do mar",
+    "foodType": "Peixes & frutos do mar",
+    "latitude": -23.0245,
+    "longitude": -43.4695,
+    "address": "Praia da Macumba",
+    "link": null
+  },
+  {
+    "name": "Brotas Bar",
+    "type": "Restaurante / Bar",
+    "foodType": "Internacional",
+    "latitude": -22.432,
+    "longitude": -48.028,
+    "address": "Av. Mário Pinotti, 267 – Centro",
+    "link": "https://www.brotasbar.com.br"
+  },
+  {
+    "name": "Restaurante Camillo",
+    "type": "Buffet / Grill",
+    "foodType": "Churrasco",
+    "latitude": -22.433,
+    "longitude": -48.0285,
+    "address": "Praça Amador Simões, 61 – Centro",
+    "link": "https://www.restaurantecamillo.com.br"
+  },
+  {
+    "name": "Especialeria",
+    "type": "Empório / Café",
+    "foodType": "Doces artesanais",
+    "latitude": -22.4332,
+    "longitude": -48.0283,
+    "address": "Av. Mário Pinotti, 215 – Centro",
+    "link": "http://www.especialeria.com.br"
+  },
+  {
+    "name": "Nikkey Sushi",
+    "type": "Restaurante Japonês",
+    "foodType": "Japonês",
+    "latitude": -22.4328,
+    "longitude": -48.0295,
+    "address": "Rua João Rebecca, 195",
+    "link": "http://nikkeysushi.com.br"
+  },
+  {
+    "name": "Rancho Vô Luiz",
+    "type": "Empório / Choperia",
+    "foodType": "Petiscos e cervejas",
+    "latitude": -22.439,
+    "longitude": -48.054,
+    "address": "R. Cubatão, 355 - Cachoeiras do Jacaré",
+    "link": "https://www.instagram.com/ranchovoluiz"
+  },
+  {
+    "name": "Poção Brotas",
+    "type": "Restaurante / Ecoturismo",
+    "foodType": "Brasileira",
+    "latitude": -22.4345,
+    "longitude": -48.016,
+    "address": "Rod. Eng. Paulo Nilo Romano, km 131",
+    "link": null
+  },
+  {
+    "name": "Brotas Beer",
+    "type": "Cervejaria",
+    "foodType": "Cervejas artesanais e petiscos",
+    "latitude": -22.431,
+    "longitude": -48.0275,
+    "address": "Av. Mário Pinotti, 585 – Centro",
+    "link": null
+  },
+  {
+    "name": "Restaurante Santa Gula",
+    "type": "Buffet / Self-service",
+    "foodType": "Brasileira",
+    "latitude": -22.4335,
+    "longitude": -48.03,
+    "address": "R. Ernesto Marineli, 284 – Centro",
+    "link": null
+  },
+  {
+    "name": "Restaurante Santa Teresa Bistrô & Café",
+    "type": "Bistrô",
+    "foodType": "Frutos do mar e brasileira",
+    "latitude": -22.4325,
+    "longitude": -48.0287,
+    "address": "Centro – Brotas",
+    "link": null
+  },
+  {
+    "name": "Malagueta Brotas",
+    "type": "Bar / Restaurante",
+    "foodType": "Petiscos e drinks",
+    "latitude": -22.4315,
+    "longitude": -48.027,
+    "address": "Av. Mário Pinotti, 531 – Centro",
+    "link": null
+  }
+]
